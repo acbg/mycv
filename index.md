@@ -28,7 +28,8 @@ Eternal learner with a deep interest in financial markets, trading strategies, a
 
 ## Professional Experience
 
-`Nov. 2023 - now`
+`2023 - now`
+<!-- `Nov 2023 - now` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
 
 - Manage client patent portfolios, guide and supervise the patent application process from invention through drafting, grant, and beyond.
@@ -36,7 +37,8 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 - Review and evaluate technological innovations in various domains, including software, hardware, and physics-based applications.
 - Collaborate with legal teams to provide technical insights and strategy for intellectual property protection.
 
-`Apr 2022 - Oct 2023`
+`2022 - 2023`
+<!-- `Apr 2022 - Oct 2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
 - Led manufacturing projects, developing processes from concept to execution.
@@ -44,7 +46,8 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, 
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
 
-`Nov. 2017 – Mar. 2022`
+`2017 – 2022`
+<!-- `Nov 2017 – Mar 2022` -->
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
 - Developed Python-based tools for statistical analysis of complex datasets.
@@ -52,14 +55,16 @@ __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Fi
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
-`May 2017 – Oct. 2017`
+`2017`
+<!-- `May 2017 – Oct 2017` -->
 __Research Intern__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
 - Supported junior researchers in laboratory techniques and methodologies.
 
-`Sep. 2008 – Sep. 2013`
+`2008 – 2013`
+<!-- `Sep 2008 – Sep 2013` -->
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
@@ -67,10 +72,12 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 ## Projects
 
+-
+
 ### Financial Data Analysis and Modeling
 
-- **Loan Portfolio Simulation**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
-- **Portfolio Optimization**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
+- **[Loan Simulation](https://github.com/acbg/loan_simulations)**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
+- **[Portfolio Optimization](https://github.com/acbg/portfolio_optimization)**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
 - **Time Series Forecasting**: Utilized ARIMA and GARCH models to predict financial time series data and assess market volatility.
 
 ### Quantitative Trading Algorithms
@@ -108,10 +115,6 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 `2025`
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
 - __The complete Financial Analyst Course 2025__ – (Udemy)
-- __Python for Time Series Data Analysis__ – (Udemy)
-- __Python for Data Science and Machine Learning__ – (Udemy)
-- __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
-- __Python for Machine Learning and Data Science Masterclass__ (Udemy)
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 
 `2024`
@@ -119,6 +122,10 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 - __Financial Markets__ - (Yale University, Coursera)
 - __Mathematical Methods for Quantitative Finance__ - (MITx, edX)
 - __Financial Engineering and Risk Management__ – (Columbia University, Coursera)
+- __Python for Time Series Data Analysis__ – (Udemy)
+- __Python for Data Science and Machine Learning__ – (Udemy)
+- __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
+- __Python for Machine Learning and Data Science Masterclass__ (Udemy)
 
 <!-- ## Job application summary -->
 <!--  -->
