@@ -90,14 +90,19 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 ### Programming
 - Python (pandas, numpy, scikit-learn, matplotlib), MATLAB, C, R
+
 ### Data Analysis
 - Statistical modeling, predictive analytics, experimental design
+
 ### Finance Tools
 - Time series analysis, Monte Carlo simulations (basic understanding)
+
 ### Technical Expertise
 - Semiconductor fabrication, optoelectronic devices, characterization techniques
+
 ### Soft Skills
 - Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
+
 
 ## Education
 
