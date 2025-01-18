@@ -29,7 +29,7 @@ Eternal learner with a deep interest in financial markets, trading strategies, a
 ## Professional Experience
 
 `Nov. 2023 - now`
-__Patent Specialist__,___Papula-Nevinpat___, Helsinki, Finland
+__Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
 
 - Manage client patent portfolios, guide and supervise the patent application process from invention through drafting, grant, and beyond.
 - Conduct technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
@@ -37,7 +37,7 @@ __Patent Specialist__,___Papula-Nevinpat___, Helsinki, Finland
 - Collaborate with legal teams to provide technical insights and strategy for intellectual property protection.
 
 `Apr 2022 - Oct 2023`
-__Senior Manufacturing Engineer__,___Dispelix___, Espoo, Finland
+__Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
 - Led manufacturing projects, developing processes from concept to execution.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
@@ -45,7 +45,7 @@ __Senior Manufacturing Engineer__,___Dispelix___, Espoo, Finland
 - Mentored and guided team members, introducing them to standard protocols and tools.
 
 `Nov. 2017 – Mar. 2022`
-__Postdoctoral Researcher__,___Aalto University___, Espoo, Finland
+__Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
 - Developed Python-based tools for statistical analysis of complex datasets.
 - Created simulation models for LEDs and PV cells, enhancing understanding of performance.
@@ -53,27 +53,27 @@ __Postdoctoral Researcher__,___Aalto University___, Espoo, Finland
 - Supervised and trained junior researchers on experimental and analytical tools.
 
 `May 2017 – Oct. 2017`
-__Research Intern__,___EU-JRC___, Ispra, Italy
+__Research Intern__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
 - Supported junior researchers in laboratory techniques and methodologies.
 
 `Sep. 2008 – Sep. 2013`
-__Junior Researcher__,___CIEMAT___, Madrid, Spain
+__Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
 
 ## Projects
 
-__Financial Data Analysis and Modeling__
+### Financial Data Analysis and Modeling
 
 - **Loan Portfolio Simulation**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
 - **Portfolio Optimization**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
 - **Time Series Forecasting**: Utilized ARIMA and GARCH models to predict financial time series data and assess market volatility.
 
-__Quantitative Trading Algorithms__
+### Quantitative Trading Algorithms
 
 - **Backtesting Framework**: Created a Python-based system to evaluate trading strategies against historical data, incorporating performance metrics like drawdowns and risk-adjusted returns.
 - **Momentum Strategy Implementation**: Developed a momentum-based trading algorithm using statistical thresholds and historical price movements.
@@ -81,42 +81,44 @@ __Quantitative Trading Algorithms__
 
 ## Skills
 
-__Programming__: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB
-__Data Analysis__: Statistical modeling, predictive analytics, experimental design
-__Finance Tools__: Time series analysis, Monte Carlo simulations (basic understanding)
-__Technical Expertise__: Semiconductor fabrication, optoelectronic devices, characterization techniques
-__Soft Skills__: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
+- __Programming__: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB
+- __Data Analysis__: Statistical modeling, predictive analytics, experimental design
+- __Finance Tools__: Time series analysis, Monte Carlo simulations (basic understanding)
+- __Technical Expertise__: Semiconductor fabrication, optoelectronic devices, characterization techniques
+- __Soft Skills__: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
 
 ## Education
 
 `2017`
-__Ph.D. in Physics__, ___Universidad Complutense de Madrid___, Spain
+__Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es), Spain
 
 - Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
 
 `2012`
-__M.Sc. in Advanced Materials and Nanotechnology__, ___Universidad Autónoma de Madrid___, Spain
+__M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es), Spain
 
 - Focus: Fabrication and characterization techniques, analysis methods, and programming tools
 
 `2008`
-__B.Sc. in Physics__, ___Universidad Autónoma de Madrid___, Spain
+__B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spain
 - Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
 
 ## Additional courses
 
+`2025`
+- __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
+- __The complete Financial Analyst Course 2025__ – (Udemy)
+- __Python for Time Series Data Analysis__ – (Udemy)
+- __Python for Data Science and Machine Learning__ – (Udemy)
+- __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
+- __Python for Machine Learning and Data Science Masterclass__ (Udemy)
+- __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
+
 `2024`
-__Foundations of Finance__ - (University of Cambridge, edX)
-__Financial Markets__ - (Yale University, Coursera)
-__Mathematical Methods for Quantitative Finance__ - (MITx, edX)
-__Financial Engineering and Risk Management__ – (Columbia University, Coursera)
-__Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
-__The complete Financial Analyst Course 2025__ – (Udemy)
-__Python for Time Series Data Analysis__ – (Udemy)
-__Python for Data Science and Machine Learning__ – (Udemy)
-__Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
-__Python for Machine Learning and Data Science Masterclass__ (Udemy)
-__The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
+- __Foundations of Finance__ - (University of Cambridge, edX)
+- __Financial Markets__ - (Yale University, Coursera)
+- __Mathematical Methods for Quantitative Finance__ - (MITx, edX)
+- __Financial Engineering and Risk Management__ – (Columbia University, Coursera)
 
 <!-- ## Job application summary -->
 <!--  -->
