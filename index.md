@@ -6,8 +6,14 @@ title: Alberto Casado's CV
 Physics PhD | Quantitative Researcher | Data Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="http://acbg.gitlab.io/">acbg.gitlab.io</a>
+| <a href="casado.alberto@gmail.com">email</a>
+| <a href="358) 50 308 8737">Phone</a>
+| <a href="(+358) 50 308 8737">Phone</a>
+| <a href="linkedin.com/in/acbgg">LinkedIn</a>
+| <a href="github.com/acbg">GitHub</a>
+| <a href="gitlab.com/acbg">GitLab</a>
+
 </div>
 
 
@@ -20,13 +26,7 @@ Fascinated by the intersection of technology, finance, and mathematics.
 Excited to apply technical expertise and analytical acumen to quantitative finance.
 Eternal learner with a deep interest in financial markets, trading strategies, and algorithm development.
 
-## WORK EXPERIENCE
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
+## Professional Experience
 
 `Nov. 2023 - now`
 __Patent Specialist__,___Papula-Nevinpat___, Helsinki, Finland
@@ -52,88 +52,78 @@ __Postdoctoral Researcher__,___Aalto University___, Espoo, Finland
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
-### **Research Intern**
-*EU-JRC, Ispra, Italy* | **May 2017 – Oct. 2017**
+`May 2017 – Oct. 2017`
+__Research Intern__,___EU-JRC___, Ispra, Italy
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
 - Supported junior researchers in laboratory techniques and methodologies.
 
-### **Junior Researcher**
-*CIEMAT, Madrid, Spain* | **Sep. 2008 – Sep. 2013**
+`Sep. 2008 – Sep. 2013`
+__Junior Researcher__,___CIEMAT___, Madrid, Spain
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
 
+## Projects
 
-### Specialized in
+__Financial Data Analysis and Modeling__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Loan Portfolio Simulation**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
+- **Portfolio Optimization**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
+- **Time Series Forecasting**: Utilized ARIMA and GARCH models to predict financial time series data and assess market volatility.
+
+__Quantitative Trading Algorithms__
+
+- **Backtesting Framework**: Created a Python-based system to evaluate trading strategies against historical data, incorporating performance metrics like drawdowns and risk-adjusted returns.
+- **Momentum Strategy Implementation**: Developed a momentum-based trading algorithm using statistical thresholds and historical price movements.
 
 
-### Research interests
+## Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+__Programming__: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB
+__Data Analysis__: Statistical modeling, predictive analytics, experimental design
+__Finance Tools__: Time series analysis, Monte Carlo simulations (basic understanding)
+__Technical Expertise__: Semiconductor fabrication, optoelectronic devices, characterization techniques
+__Soft Skills__: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+__Ph.D. in Physics__, ___Universidad Complutense de Madrid___, Spain
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+- Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
 
 `2012`
-President, *Royal Society*, London, UK
+__M.Sc. in Advanced Materials and Nanotechnology__, ___Universidad Autónoma de Madrid___, Spain
 
-Associate, *French Academy of Science*, Paris, France
+- Focus: Fabrication and characterization techniques, analysis methods, and programming tools
 
+`2008`
+__B.Sc. in Physics__, ___Universidad Autónoma de Madrid___, Spain
+- Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
 
+## Additional courses
 
-## Publications
+`2024`
+__Foundations of Finance__ - (University of Cambridge, edX)
+__Financial Markets__ - (Yale University, Coursera)
+__Mathematical Methods for Quantitative Finance__ - (MITx, edX)
+__Financial Engineering and Risk Management__ – (Columbia University, Coursera)
+__Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
+__The complete Financial Analyst Course 2025__ – (Udemy)
+__Python for Time Series Data Analysis__ – (Udemy)
+__Python for Data Science and Machine Learning__ – (Udemy)
+__Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
+__Python for Machine Learning and Data Science Masterclass__ (Udemy)
+__The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+<!-- ## Job application summary -->
+<!--  -->
+<!-- As a seasoned physicist with a rich background in data analysis, programming, and research, I am eager to transition into a quantitative finance role. -->
+<!-- My 12+ years of experience in technical problem-solving and statistical modeling, combined with recent legal and technical analysis expertise as a Patent Specialist, equip me to tackle complex challenges in financial markets. -->
+<!-- Proficient in Python, statistical tools, and data-driven decision-making, I am passionate about applying my analytical mindset to develop innovative trading strategies and financial models. -->
+<!-- I bring a commitment to excellence, a curiosity for learning, and a strong drive to contribute to the dynamic world of quantitative finance. -->
 
 <!-- ### Footer
 
