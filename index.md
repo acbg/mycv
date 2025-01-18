@@ -72,7 +72,7 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 ## Projects
 
--
+- A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.
 
 ### Financial Data Analysis and Modeling
 
