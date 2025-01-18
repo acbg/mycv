@@ -6,14 +6,12 @@ title: Alberto Casado's CV
 Physics PhD | Quantitative Researcher | Data Analyst
 
 <div id="webaddress">
-<a href="http://acbg.gitlab.io/">acbg.gitlab.io</a>
-| <a href="casado.alberto@gmail.com">email</a>
-| <a href="358) 50 308 8737">Phone</a>
-| <a href="(+358) 50 308 8737">Phone</a>
-| <a href="linkedin.com/in/acbgg">LinkedIn</a>
-| <a href="github.com/acbg">GitHub</a>
-| <a href="gitlab.com/acbg">GitLab</a>
-
+  <a href="http://acbg.gitlab.io/">acbg.gitlab.io</a>
+  | <a href="mailto:casado.alberto@gmail.com">email</a>
+  | <a href="tel:+358503088737">phone</a>
+  | <a href="https://linkedin.com/in/acbgg">LinkedIn</a>
+  | <a href="https://github.com/acbg">GitHub</a>
+  | <a href="https://gitlab.com/acbg">GitLab</a>
 </div>
 
 
