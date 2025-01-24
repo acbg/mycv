@@ -83,6 +83,10 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 - **Backtesting Framework**: Created a Python-based system to evaluate trading strategies against historical data, incorporating performance metrics like drawdowns and risk-adjusted returns.
 - **Momentum Strategy Implementation**: Developed a momentum-based trading algorithm using statistical thresholds and historical price movements.
 
+### Scientific modelling and analysis
+
+- [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.
+
 
 ## Skills
 
