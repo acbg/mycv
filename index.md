@@ -20,7 +20,7 @@ Physics PhD | Quantitative Researcher | Data Analyst
 Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor physics, optoelectronic devices, and data analysis.
 Recently transitioned to combining analytical and problem-solving skills as a Patent Specialist.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
-Fascinated by the intersection of technology, Physics and Mathematics.
+Fascinated by the intersection of Physics, Mathematics and technology.
 Eternal learner with a deep interest in optoelectronics, project management and algorithm development.
 
 ## Professional Experience
