@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Alberto Casado's CV
+title: Alberto Casado
 ---
 # Alberto Casado
 Physics PhD | Quantitative Researcher | Data Analyst
