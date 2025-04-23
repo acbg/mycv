@@ -18,11 +18,10 @@ Physics PhD | Quantitative Researcher | Data Analyst
 ## About me
 
 Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor physics, optoelectronic devices, and data analysis.
-Recently transitioned to leveraging analytical and problem-solving skills as a Patent Specialist.
+Recently transitioned to combining analytical and problem-solving skills as a Patent Specialist.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
-Fascinated by the intersection of technology, finance, and mathematics.
-Excited to apply technical expertise and analytical acumen to quantitative finance.
-Eternal learner with a deep interest in financial markets, trading strategies, and algorithm development.
+Fascinated by the intersection of technology, Physics and Mathematics.
+Eternal learner with a deep interest in optoelectronics, project management and algorithm development.
 
 ## Professional Experience
 
@@ -49,7 +48,8 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, 
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
 - Developed Python-based tools for statistical analysis of complex datasets.
-- Created simulation models for LEDs and PV cells, enhancing understanding of performance.
+- Created simulation models for LEDs and PV cells, enhancing understanding of performance and electroluminescent cooling.
+- Designed, fabricated and characterised different optoelectronic devices.
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
