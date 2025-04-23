@@ -72,16 +72,11 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 - A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.
 
-### Financial Data Analysis and Modeling
+### Data Analysis and Modeling
 
 - **[Loan Simulation](https://github.com/acbg/loan_simulations)**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
 - **[Portfolio Optimization](https://github.com/acbg/portfolio_optimization)**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
 - **Time Series Forecasting**: Utilized ARIMA and GARCH models to predict financial time series data and assess market volatility.
-
-### Quantitative Trading Algorithms
-
-- **Backtesting Framework**: Created a Python-based system to evaluate trading strategies against historical data, incorporating performance metrics like drawdowns and risk-adjusted returns.
-- **Momentum Strategy Implementation**: Developed a momentum-based trading algorithm using statistical thresholds and historical price movements.
 
 ### Scientific modelling and analysis
 
@@ -92,11 +87,9 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 **Programming**: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB, C, R
 
-**Data Analysis**: Statistical modeling, predictive analytics, experimental design
+**Data Analysis and Machine Learning**: Statistical modeling, predictive analytics, experimental design, Monte Carlo simulations (basic understanding), time series analysis
 
-**Finance Tools**: Time series analysis, Monte Carlo simulations (basic understanding)
-
-**Technical Expertise**: Semiconductor fabrication, optoelectronic devices, characterization techniques
+**Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOCVD, PECVD, RIE, Magnetron Sputtering, Evaporation), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves)
 
 **Soft Skills**: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
 
