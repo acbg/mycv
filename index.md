@@ -94,6 +94,7 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 **Strengths**: Self learner, curious, courageous, passionate, flexible, persistent, self-guided, effective communicator, problem-solver, team player, critical thinker, adaptable, humble, leader, resilient
 
+**Languages**: Spanish (Native), English (C2), French and Italian (B1), Finnish and Swedish (A1)
 
 ## Education
 
