@@ -33,12 +33,14 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 - Conduct technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
 - Review and evaluate technological innovations in various domains, including software, hardware, and physics-based applications.
 - Collaborate with legal teams to provide technical insights and strategy for intellectual property protection.
+- Analyse and search large datasets of prior-art libraries
 
 <!-- `2022 - 2023` -->
 `04/2022 - 10/2023`
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
 - Led manufacturing projects, developing processes from concept to execution.
+- Fully developed a hard-master replication process in a clean room environment.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
@@ -47,15 +49,15 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, 
 `11/2017 – 03/2022`
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
-- Developed Python-based tools for statistical analysis of complex datasets.
+- Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
 - Created simulation models for LEDs and PV cells, enhancing understanding of performance and electroluminescent cooling.
-- Designed, fabricated and characterised different optoelectronic devices.
+- Designed, fabricated and characterised several optoelectronic devices.
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
 <!-- `2017` -->
 `05/2017 – 10/2017`
-__Research Intern__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
+__Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
@@ -90,7 +92,7 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 **Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
 
-**Soft Skills**: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
+**Strengths**: Self learner, curious, courageous, passionate, flexible, persistent, self-guided, effective communicator, problem-solver, team player, critical thinker, adaptable, humble, leader, resilient
 
 
 ## Education
