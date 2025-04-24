@@ -72,24 +72,23 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 - A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.
 
-### Scientific modelling and analysis
+### **Scientific modelling and analysis**
 
 - [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.
 
-### Data Analysis and Modeling
+### **Data Analysis and Modeling**
 
-- **[Loan Simulation](https://github.com/acbg/loan_simulations)**: Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
-- **[Portfolio Optimization](https://github.com/acbg/portfolio_optimization)**: Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
-- **Time Series Forecasting**: Utilized ARIMA and GARCH models to predict financial time series data and assess market volatility.
+- [Loan Simulation](https://github.com/acbg/loan_simulations): Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
+- [Portfolio Optimization](https://github.com/acbg/portfolio_optimization): Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
 
 
 ## Skills
 
-**Programming**: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB, C, R
+**Programming**: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB, C, R, Unix, git
 
 **Data Analysis and Machine Learning**: Statistical modeling, predictive analytics, experimental design, Monte Carlo simulations (basic understanding), time series analysis
 
-**Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOCVD, PECVD, RIE, Magnetron Sputtering, Evaporation), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves)
+**Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
 
 **Soft Skills**: Problem-solving, mentoring, cross-functional collaboration, ownership, passion, leadership, resilience
 
