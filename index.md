@@ -25,8 +25,8 @@ Eternal learner with a deep interest in optoelectronics, project management and 
 
 ## Professional Experience
 
-<!-- `2023 - now` -->
-`11/2023 - now`
+`2023 - now`
+<!-- `11/2023 - now` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
 
 - Manage client patent portfolios, guide and supervise the patent application process from invention through drafting, grant, and beyond.
@@ -35,8 +35,8 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 - Collaborate with legal teams to provide technical insights and strategy for intellectual property protection.
 - Analyse and search large datasets of prior-art libraries
 
-<!-- `2022 - 2023` -->
-`04/2022 - 10/2023`
+`2022 - 2023`
+<!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
 - Led manufacturing projects, developing processes from concept to execution.
@@ -45,8 +45,8 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, 
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
 
-<!-- `2017 – 2022` -->
-`11/2017 – 03/2022`
+`2017 – 2022`
+<!-- `11/2017 – 03/2022` -->
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
 - Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
@@ -55,16 +55,16 @@ __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Fi
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
-<!-- `2017` -->
-`05/2017 – 10/2017`
+`2017`
+<!-- `05/2017 – 10/2017` -->
 __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
 - Supported junior researchers in laboratory techniques and methodologies.
 
-<!-- `2008 – 2013` -->
-`09/2008 – 09/2013`
+`2008 – 2013`
+<!-- `09/2008 – 09/2013` -->
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
@@ -98,7 +98,7 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 ## Education
 
-`2017`
+`2016`
 __Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es), Spain
 
 - Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
