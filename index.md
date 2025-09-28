@@ -25,8 +25,8 @@ Eternal learner with a deep interest in optoelectronics, project management and 
 
 ## Professional Experience
 
-`2023 - now`
-<!-- `11/2023 - now` -->
+`2023 - 2025`
+<!-- `11/2023 - 04/2025` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
 
 - Manage client patent portfolios, guide and supervise the patent application process from invention through drafting, grant, and beyond.
@@ -70,18 +70,19 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
 
+<!--
+## Projects
 
-[//]: # (## Projects)
+- A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.)
 
-[//]: # (- A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.)
+### **Scientific modelling and analysis**)
+- [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.)
 
-[//]: # (### **Scientific modelling and analysis**)
-[//]: # (- [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.)
+### **Data Analysis and Modeling**)
 
-[//]: # (### **Data Analysis and Modeling**)
-
-[//]: # (- [Loan Simulation](https://github.com/acbg/loan_simulations): Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.)
-[//]: # (- [Portfolio Optimization](https://github.com/acbg/portfolio_optimization): Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.)
+- [Loan Simulation](https://github.com/acbg/loan_simulations): Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.)
+- [Portfolio Optimization](https://github.com/acbg/portfolio_optimization): Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.)
+-->
 
 
 
