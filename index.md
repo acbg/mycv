@@ -70,18 +70,19 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
 
-## Projects
 
-- A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.
+[//]: # (## Projects)
 
-### **Scientific modelling and analysis**
+[//]: # (- A complete list can be seen in my [GitHub](https://github.com/acbg/) and [GitLab](https://gitlab.com/acbg/) profiles.)
 
-- [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.
+[//]: # (### **Scientific modelling and analysis**)
+[//]: # (- [LED Models](https://gitlab.com/acbg/led-model/): Developed a Python-based system to simulate and analyse LEDs and Solar Cells several parameters and properties.)
 
-### **Data Analysis and Modeling**
+[//]: # (### **Data Analysis and Modeling**)
 
-- [Loan Simulation](https://github.com/acbg/loan_simulations): Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.
-- [Portfolio Optimization](https://github.com/acbg/portfolio_optimization): Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.
+[//]: # (- [Loan Simulation](https://github.com/acbg/loan_simulations): Developed a Python model to simulate interest rates, loan balances, and portfolio growth under varying economic conditions.)
+[//]: # (- [Portfolio Optimization](https://github.com/acbg/portfolio_optimization): Analyzed risk-return trade-offs using Python libraries to derive optimal asset weights and enhance Sharpe ratios.)
+
 
 
 ## Skills
@@ -115,11 +116,13 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 ## Additional courses
 
 `2025`
+
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
 - __The complete Financial Analyst Course 2025__ – (Udemy)
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 
 `2024`
+
 - __Foundations of Finance__ - (University of Cambridge, edX)
 - __Financial Markets__ - (Yale University, Coursera)
 - __Mathematical Methods for Quantitative Finance__ - (MITx, edX)
