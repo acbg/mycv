@@ -20,8 +20,9 @@ Physics PhD | Researcher
 Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor physics, optoelectronic devices, and data analysis.
 Recently transitioned to combining analytical and problem-solving skills as a Patent Specialist.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
-Fascinated by the intersection of Physics, Mathematics and technology.
-Eternal learner with a deep interest in optoelectronics, project management and algorithm development.
+Fascinated by the intersection of Physics, Mathematics and Technology.
+Eternal learner with a deep interest in optoelectronics, quantum computing, project management and algorithm development.
+
 
 ## Professional Experience
 
@@ -29,18 +30,18 @@ Eternal learner with a deep interest in optoelectronics, project management and 
 <!-- `11/2023 - 04/2025` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
 
-- Manage client patent portfolios, guide and supervise the patent application process from invention through drafting, grant, and beyond.
-- Conduct technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
-- Review and evaluate technological innovations in various domains, including software, hardware, and physics-based applications.
-- Collaborate with legal teams to provide technical insights and strategy for intellectual property protection.
-- Analyse and search large datasets of prior-art libraries
+- Managed client patent portfolios, guided and supervised the patent application process from invention through drafting, grant, and beyond.
+- Conducted technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
+- Reviewed and evaluated technological innovations in various domains, including software, hardware, and physics-based applications.
+- Collaborated with legal and scientific teams to provide technical insights and strategy for intellectual property protection.
+- Analysed and searched large datasets of prior-art libraries
 
 `2022 - 2023`
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
 - Led manufacturing projects, developing processes from concept to execution.
-- Fully developed a hard-master replication process in a clean room environment.
+- Fully developed hard-master replication processes in a clean room environment, improving process efficiency by about 10 % and reducing fabrication times by at least 50%.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
@@ -94,9 +95,10 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 **Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
 
-**Strengths**: Self learner, curious, courageous, passionate, flexible, persistent, self-guided, effective communicator, problem-solver, team player, critical thinker, adaptable, humble, leader, resilient
+**Strengths**: Self learner, curious, courageous, passionate, flexible, persistent, self-guided, problem-solver, team player, critical thinker, adaptable, humble, leader, resilient
 
 **Languages**: Spanish (Native), English (C2), French and Italian (B1), Finnish and Swedish (A1)
+
 
 ## Education
 
@@ -113,6 +115,7 @@ __M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Ma
 `2008`
 __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spain
 - Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
+
 
 ## Additional courses
 
