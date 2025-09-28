@@ -3,7 +3,7 @@ layout: cv
 title: Alberto Casado
 ---
 # Alberto Casado
-Physics PhD | Quantitative Researcher | Data Analyst
+Physics PhD | Researcher
 
 <div id="webaddress">
   <a href="http://acbg.gitlab.io/">acbg.gitlab.io</a>
