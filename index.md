@@ -40,7 +40,7 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
-- Led manufacturing projects, developing processes from concept to execution.
+- Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR applications, from concept to execution.
 - Fully developed hard-master replication processes in a clean room environment, improving process efficiency by about 10 % and reducing fabrication times by at least 50%.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
@@ -52,7 +52,7 @@ __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Fi
 
 - Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
 - Created simulation models for LEDs and PV cells, enhancing understanding of performance and electroluminescent cooling.
-- Designed, fabricated and characterised several optoelectronic devices.
+- Designed, fabricated and characterised several types of optoelectronic devices.
 - Maintained and operated advanced fabrication and characterization systems.
 - Supervised and trained junior researchers on experimental and analytical tools.
 
