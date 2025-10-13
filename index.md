@@ -122,8 +122,8 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `2025`
 
-- __Materials and ML workshop__ - (Baylor University)
 - __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
+- __Materials and Machine Learning workshop__ - (Baylor University)
 - __Python for Time Series Data Analysis__ (Udemy)
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
