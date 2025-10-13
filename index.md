@@ -122,11 +122,13 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `2025`
 
+- __Materials and ML workshop__ - (Baylor University)
+- __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
+- __Python for Time Series Data Analysis__ (Udemy)
+- __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
 - __The complete Financial Analyst Course 2025__ – (Udemy)
-- __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Foundations of Finance__ - (University of Cambridge, edX)
-- __Materials and ML workshop__ - (Baylor University)
 
 `2024`
 
