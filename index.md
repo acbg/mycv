@@ -17,11 +17,11 @@ Physics PhD | Researcher
 
 ## About me
 
-Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor physics, optoelectronic devices, and data analysis.
-Recently transitioned to combining analytical and problem-solving skills as a Patent Specialist.
+Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
+and more recently in patent drafting and prosecution.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
 Fascinated by the intersection of Physics, Mathematics and Technology.
-Eternal learner with a deep interest in optoelectronics, quantum computing, project management and algorithm development.
+Eternal learner with a deep interest in photonics, quantum computing, education, project management and algorithm development.
 
 
 ## Professional Experience
@@ -40,8 +40,9 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
 
-- Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR applications, from concept to execution.
-- Fully developed hard-master replication processes in a clean room environment, improving process efficiency by about 10 % and reducing fabrication times by at least 50%.
+- Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR (augmented reality)
+applications, from concept to execution.
+- Fully developed hard-master replication processes in a clean room environment, improving process efficiency and minimising fabrication times.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
@@ -50,11 +51,11 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, 
 <!-- `11/2017 – 03/2022` -->
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
 
-- Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
-- Created simulation models for LEDs and PV cells, enhancing understanding of performance and electroluminescent cooling.
 - Designed, fabricated and characterised several types of optoelectronic devices.
+- Created simulation models for LEDs and PV cells, enhancing the understanding of devices performance and the electroluminescent cooling effect of LEDs.
+- Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
 - Maintained and operated advanced fabrication and characterization systems.
-- Supervised and trained junior researchers on experimental and analytical tools.
+- Supervised and trained junior researchers (Masters and PhD. students) on experimental and analytical tools.
 
 `2017`
 <!-- `05/2017 – 10/2017` -->
@@ -124,10 +125,11 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
 - __The complete Financial Analyst Course 2025__ – (Udemy)
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
+- __Foundations of Finance__ - (University of Cambridge, edX)
+- __Materials and ML workshop__ - (Baylor University)
 
 `2024`
 
-- __Foundations of Finance__ - (University of Cambridge, edX)
 - __Financial Markets__ - (Yale University, Coursera)
 - __Mathematical Methods for Quantitative Finance__ - (MITx, edX)
 - __Financial Engineering and Risk Management__ – (Columbia University, Coursera)
