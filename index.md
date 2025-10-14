@@ -144,8 +144,8 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `Conferences`
 
-- __Efficient fully-coupled electro-optical simulation framework for large-area planar device__; *T. Sadi, A. Casado, I. Radevici, P. Kivisaari and J. Oksanen*{::}; NUSOD (2019)
-- __Temperature dependence of thermophotonic energy transfer in intracavity structures__; <i>A. Casado, I. Radevici, T. Sadi and J. Oksanen</i>; SPIE (2019)
+- __Efficient fully-coupled electro-optical simulation framework for large-area planar device__; T. Sadi, A. Casado, I. Radevici, P. Kivisaari and J. Oksanen; NUSOD (2019)
+- __Temperature dependence of thermophotonic energy transfer in intracavity structures__; _A. Casado, I. Radevici, T. Sadi and J. Oksanen_; SPIE (2019)
 - __Electroluminescent cooling using double diode structures__; <i>T. Sadi, I. Radevici, P. Kivisaari, A. Casado and J. Oksanen</i>; NUSOD (2018)
 - __Electrical indoor performance of bifacial silicon PV modules under different settings affecting the rear reflected irradiance__; <i>Juan Lopez-Garcia, Alberto Casado and Tony Sample</i>; 33rd EU-PVSEC (2017)
 - __Transverse-collection mechanisms in silicon- heterojunction solar cells__; <i>A. Casado, R. Barrio, J. J. Gandia and J. Carabe</i>; 33rd EU-PVSEC (2017)
@@ -164,12 +164,14 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 - __Optimization of laser-firing processes for silicon-heterojunction solar-cell back contacts__; <i>I. Sánchez-Aniorte, R.Barrio, A. Casado et al.</i>; Applied Surface Science 258. 23, pp.9443-9446 (2012)
 - __Influence of the CF4/O2 plasma treatment of ZnO:Al on the performance of a-Sip-i-n solar cells__; <i>Santos,J.D., S. Fernandez, A. Casado et al.</i>; ScienceJet-C11.1 (2012)
 
-<!-- ## Job application summary -->
-<!--  -->
-<!-- As a seasoned physicist with a rich background in data analysis, programming, and research, I am eager to transition into a quantitative finance role. -->
-<!-- My 12+ years of experience in technical problem-solving and statistical modeling, combined with recent legal and technical analysis expertise as a Patent Specialist, equip me to tackle complex challenges in financial markets. -->
-<!-- Proficient in Python, statistical tools, and data-driven decision-making, I am passionate about applying my analytical mindset to develop innovative trading strategies and financial models. -->
-<!-- I bring a commitment to excellence, a curiosity for learning, and a strong drive to contribute to the dynamic world of quantitative finance. -->
+{::comment}
+## Job application summary
+
+As a seasoned physicist with a rich background in data analysis, programming, and research, I am eager to transition into a quantitative finance role.
+My 12+ years of experience in technical problem-solving and statistical modeling, combined with recent legal and technical analysis expertise as a Patent Specialist, equip me to tackle complex challenges in financial markets.
+Proficient in Python, statistical tools, and data-driven decision-making, I am passionate about applying my analytical mindset to develop innovative trading strategies and financial models.
+I bring a commitment to excellence, a curiosity for learning, and a strong drive to contribute to the dynamic world of quantitative finance.
+{:/comment}
 
 ### Footer
 
