@@ -144,7 +144,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `Conferences`
 
-- __Efficient fully-coupled electro-optical simulation framework for large-area planar device__; *T. Sadi, A. Casado, I. Radevici, P. Kivisaari and J. Oksanen*; NUSOD (2019)
+- __Efficient fully-coupled electro-optical simulation framework for large-area planar device__; _T. Sadi, A. Casado, I. Radevici, P. Kivisaari and J. Oksanen_; NUSOD (2019)
 - __Temperature dependence of thermophotonic energy transfer in intracavity structures__; *A. Casado, I. Radevici, T. Sadi and J. Oksanen*; SPIE (2019)
 - __Electroluminescent cooling using double diode structures__; *T. Sadi, I. Radevici, P. Kivisaari, A. Casado and J. Oksanen*; NUSOD (2018)
 - __Electrical indoor performance of bifacial silicon PV modules under different settings affecting the rear reflected irradiance__; *Juan Lopez-Garcia, Alberto Casado and Tony Sample*; 33rd EU-PVSEC (2017)
