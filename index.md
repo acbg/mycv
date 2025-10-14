@@ -173,6 +173,6 @@ Proficient in Python, statistical tools, and data-driven decision-making, I am p
 I bring a commitment to excellence, a curiosity for learning, and a strong drive to contribute to the dynamic world of quantitative finance.
 {:/comment}
 
-## Last updated
+### Last updated
 
 Oct 2025
