@@ -140,6 +140,30 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 - __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
 - __Python for Machine Learning and Data Science Masterclass__ (Udemy)
 
+## Publications
+
+`Conferences`
+
+- __Efficient fully-coupled electro-optical simulation framework for large-area planar device__; *T. Sadi, A. Casado, I. Radevici, P. Kivisaari and J. Oksanen*; NUSOD (2019)
+- __Temperature dependence of thermophotonic energy transfer in intracavity structures__; *A. Casado, I. Radevici, T. Sadi and J. Oksanen*; SPIE (2019)
+- __Electroluminescent cooling using double diode structures__; *T. Sadi, I. Radevici, P. Kivisaari, A. Casado and J. Oksanen*; NUSOD (2018)
+- __Electrical indoor performance of bifacial silicon PV modules under different settings affecting the rear reflected irradiance__; *Juan Lopez-Garcia, Alberto Casado and Tony Sample*; 33rd EU-PVSEC (2017)
+- __Transverse-collection mechanisms in silicon- heterojunction solar cells__; *A. Casado, R. Barrio, J. J. Gandia and J. Carabe*; 33rd EU-PVSEC (2017)
+- __Effect of the passivating a-Si:H layer on laser-fired contacts in p-CZ silicon-heterojuntion solar cells__; *R. Barrio1, N. González1, A. Casado1, S.Fernández1, J.P.González1, D.Muñoz2, C.Molpeceres2, J.J. Gandía1, J.Cárabe*; 28th EU-PVSEC (2014)
+- __Influence of the CF4/O2 plasma treatment of ZnO:Al on the performance of a-Si p-i-n solar cells__; *J.D. Santos, S. Fernandez, A. Casado et al.*;  EMCMRE-1 (2012)
+- __Microcrystalline silicon material for silicon- heterojunction solar cells__; *A. Casado et al.*; EMCMRE-1 (2011)
+- __Optimization of laser-firing processes for silicon- heterojunction solar-cell back contacts__; *I. Sanchez-Aniorte, R. Barrio, A. Casado et al.*; E-MRS Spring Conference (2011)
+- __Front- contact-grid design for silicon-heterojunction solar cells__; *A. Casado et al.*; 25th EU-PVSEC (2010)
+
+`Journals`
+
+- __On the temperature dependence of the efficiency of electroluminescence__; *A. Casado, I. Radevici, T. Sadi and J.Oksanen*; Journal of Applied Physics, 126, 173102 (2019)
+- __Electrical performance of bi-facial silicon PV modules under different indoor mounting configurations affecting the rear reflected irradiance__; *J. Lopez-Garcia, A. Casado and T.Sample*; Solar Energy 177, pp.471 - 482 (2019)
+- __Effect of interface recombination on the efficiency of intracavity double diode structures__; *T. Sadi, I.Radevici, P. Kivisaari, A. Casado and J. Oksanen*; Optical and Quantum Electronics 51, 6 (2019)
+- __Microcrystalline silicon material for silicon-heterojunction solar cells__; *A. Casado et. al.*; ScienceJet-C11 (2012)
+- __Optimization of laser-firing processes for silicon-heterojunction solar-cell back contacts__; *I. Sánchez-Aniorte, R.Barrio, A. Casado et al.*; Applied Surface Science 258. 23, pp.9443-9446 (2012)
+- __Influence of the CF4/O2 plasma treatment of ZnO:Al on the performance of a-Sip-i-n solar cells__; *Santos,J.D., S. Fernandez, A. Casado et al.*; ScienceJet-C11.1 (2012)
+
 <!-- ## Job application summary -->
 <!--  -->
 <!-- As a seasoned physicist with a rich background in data analysis, programming, and research, I am eager to transition into a quantitative finance role. -->
