@@ -122,6 +122,9 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `2025`
 
+- __Starting a Business__ (Business Helsinki)
+- __Business Plan and Calculations Training__ (Business Helsinki)
+- __Pathways to Entrepreneurship__ (Business Espoo)
 - __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
 - __Materials and Machine Learning workshop__ - (Baylor University)
 - __Python for Time Series Data Analysis__ (Udemy)
