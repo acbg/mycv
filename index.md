@@ -17,11 +17,12 @@ Physics PhD | Researcher
 
 ## About me
 
-Big-picture thinker and goal-oriented professional with over 12 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
+Big-picture thinker and goal-oriented professional with over 15 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
 and more recently in patent drafting and prosecution.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
 Fascinated by the intersection of Physics, Mathematics and Technology.
 Eternal learner with a deep interest in photonics, quantum computing, education, project management and algorithm development.
+Committed to help create sustainable future-proof societies by applying data-driven decisions backed by Science and Technology.
 
 
 ## Professional Experience
