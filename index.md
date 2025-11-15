@@ -90,13 +90,13 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 
 ## Skills
 
-**Programming**: Python (pandas, numpy, scikit-learn, matplotlib), MATLAB, C, R, Unix, git
+**Programming**: Python (pandas, numpy, scikit-learn), C, MATLAB, R, Unix, git
 
-**Data Analysis and Machine Learning**: Statistical modeling, predictive analytics, experimental design, Monte Carlo simulations (basic understanding), time series analysis
+**Data Analysis and Machine Learning**: Experimental design, statistical modeling, predictive analysis, time series analysis
 
-**Technical Expertise**: Semiconductor materials and optoelectronic devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization techniques (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
+**Technical Expertise**: Materials and devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
 
-**Strengths**: Self learner, curious, courageous, passionate, flexible, persistent, self-guided, problem-solver, team player, critical thinker, adaptable, humble, leader, resilient
+**Strengths**: Team player, self learner, curious, self-guided, problem-solver, critical thinker, adaptable.
 
 **Languages**: Spanish (Native), English (C2), French and Italian (B1), Finnish and Swedish (A1)
 
@@ -122,6 +122,9 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 
 `2025`
 
+- __Quantum Enigmas__ (IBM)
+- __Foundations of Quantum Computing__ (IQM)
+- __Quantum Algorithms__ (IQM)
 - __Starting a Business__ (Business Helsinki)
 - __Business Plan and Calculations Training__ (Business Helsinki)
 - __Pathways to Entrepreneurship__ (Business Espoo)
