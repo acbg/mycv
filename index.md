@@ -29,7 +29,7 @@ Committed to help create sustainable future-proof societies by applying data-dri
 
 `2023 - 2025`
 <!-- `11/2023 - 04/2025` -->
-__Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsinki, Finland
+__Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsinki, Finland)
 
 - Managed client patent portfolios, guided and supervised the patent application process from invention through drafting, grant, and beyond.
 - Conducted technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
@@ -39,7 +39,7 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com), Helsi
 
 `2022 - 2023`
 <!-- `04/2022 - 10/2023` -->
-__Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com), Espoo, Finland
+__Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, Finland)
 
 - Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR (augmented reality)
 applications, from concept to execution.
@@ -50,7 +50,7 @@ applications, from concept to execution.
 
 `2017 – 2022`
 <!-- `11/2017 – 03/2022` -->
-__Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Finland
+__Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi) (Espoo, Finland)
 
 - Designed, fabricated and characterised several types of optoelectronic devices.
 - Created simulation models for LEDs and PV cells, enhancing the understanding of devices performance and the electroluminescent cooling effect of LEDs.
@@ -60,7 +60,7 @@ __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi), Espoo, Fi
 
 `2017`
 <!-- `05/2017 – 10/2017` -->
-__Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en), Ispra, Italy
+__Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en) (Ispra, Italy)
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
@@ -68,7 +68,7 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 
 `2008 – 2013`
 <!-- `09/2008 – 09/2013` -->
-__Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
+__Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
@@ -105,17 +105,17 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es), Madrid, Spain
 ## Education
 
 `2016`
-__Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es), Spain
+__Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (Spain)
 
 - Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
 
 `2012`
-__M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es), Spain
+__M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es)
 
 - Focus: Fabrication and characterization techniques, analysis methods, and programming tools
 
 `2008`
-__B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spain
+__B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spain)
 - Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
 
 
@@ -135,13 +135,13 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es), Spa
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
 - __The complete Financial Analyst Course 2025__ – (Udemy)
-- __Foundations of Finance__ - (University of Cambridge, edX)
+- __Foundations of Finance__ - (University of Cambridge)
 
 `2024`
 
-- __Financial Markets__ - (Yale University, Coursera)
-- __Mathematical Methods for Quantitative Finance__ - (MITx, edX)
-- __Financial Engineering and Risk Management__ – (Columbia University, Coursera)
+- __Financial Markets__ - (Yale University)
+- __Mathematical Methods for Quantitative Finance__ - (MITx)
+- __Financial Engineering and Risk Management__ – (Columbia University)
 - __Python for Time Series Data Analysis__ – (Udemy)
 - __Python for Data Science and Machine Learning__ – (Udemy)
 - __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
