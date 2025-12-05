@@ -184,4 +184,4 @@ I bring a commitment to excellence, a curiosity for learning, and a strong drive
 
 ### Last updated
 
-Nov 2025
+Dec 2025
