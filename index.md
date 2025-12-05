@@ -17,12 +17,13 @@ Physics PhD | Researcher
 
 ## About me
 
-Big-picture thinker and goal-oriented professional with over 15 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
+Big-picture thinker and goal-oriented phycisist with over 15 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
 and more recently in patent drafting and prosecution.
 Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
 Fascinated by the intersection of Physics, Mathematics and Technology.
-Eternal learner with a deep interest in photonics, quantum computing, education, project management and algorithm development.
-Committed to help create sustainable future-proof societies by applying data-driven decisions backed by Science and Technology.
+Eternal learner with a deep interest in quantum computing, photonics, education, project management and algorithm development.
+Continuously upgrading my knowledge through coursework in different topics, especially in Quantum Computation.
+Committed to help advance the quantum computing revolution.
 
 
 ## Professional Experience
@@ -123,7 +124,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 
 `2025`
 
-- __IBM Basics of Quantum Information__ (IBM, Quantum Platform)
+- __IBM Basics of Quantum Information__(in progress) (IBM, Quantum Platform)
 - __IQM Quantum School__ (IQM)
 - __Quantum Enigmas__ (IBM)
 - __Foundations of Quantum Computing__ (IQM)
