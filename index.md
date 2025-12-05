@@ -123,6 +123,8 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 
 `2025`
 
+- __IBM Basics of Quantum Information__ (IBM, Quantum Platform)
+- __IQM Quantum School__ (IQM)
 - __Quantum Enigmas__ (IBM)
 - __Foundations of Quantum Computing__ (IQM)
 - __Quantum Algorithms__ (IQM)
