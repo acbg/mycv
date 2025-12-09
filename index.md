@@ -65,6 +65,7 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
+
 <!-- - Supported junior researchers in laboratory techniques and methodologies. --!>
 
 `2008 – 2013`
@@ -125,6 +126,7 @@ __M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Ma
 
 `2008`
 __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spain)
+
 {::comment}
 - Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
 {:/comment}
@@ -140,6 +142,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __IQM Winter Quantum School__ (IQM)
 - __Foundations of Quantum Computing__ (IQM)
 - __Materials and Machine Learning workshop__ - (Baylor University)
+
 {::comment}
 - __Starting a Business__ (Business Helsinki)
 - __Business Plan and Calculations Training__ (Business Helsinki)
