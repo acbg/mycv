@@ -22,7 +22,7 @@ and more recently in patent drafting and prosecution.
 Strong foundation in Python programming and statistical modeling.
 Fascinated by the intersection of Physics, Mathematics and Technology.
 Eternal learner with a deep interest in quantum computing, semiconductors, photonics, education, project management and algorithm development.
-Continuously upgrading my knowledge through coursework in different topics, lately especially in Quantum Computation.
+Continuously upgrading my knowledge through coursework in different topics, lately very interested in Quantum Computation.
 
 
 ## Professional Experience
