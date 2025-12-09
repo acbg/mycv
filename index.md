@@ -66,7 +66,9 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
 
-<!-- - Supported junior researchers in laboratory techniques and methodologies. --!>
+{::comment}
+- Supported junior researchers in laboratory techniques and methodologies.
+{:/comment}
 
 `2008 – 2013`
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
