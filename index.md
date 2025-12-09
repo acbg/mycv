@@ -120,7 +120,7 @@ __Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (S
 - Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
 
 `2012`
-__M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spain)
+__M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es)
 
 {::comment}
 - Focus: Fabrication and characterization techniques, analysis methods, and programming tools
