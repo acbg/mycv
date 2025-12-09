@@ -119,14 +119,18 @@ __Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (S
 `2012`
 __M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es)
 
+{::comment}
 - Focus: Fabrication and characterization techniques, analysis methods, and programming tools
+{:/comment}
 
 `2008`
 __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spain)
+{::comment}
 - Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
+{:/comment}
 
 
-## Additional courses
+## Professional development
 
 `2025`
 
@@ -135,26 +139,22 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __Quantum Enigmas__ [in progress] (IBM)
 - __IQM Winter Quantum School__ (IQM)
 - __Foundations of Quantum Computing__ (IQM)
+- __Materials and Machine Learning workshop__ - (Baylor University)
+{::comment}
 - __Starting a Business__ (Business Helsinki)
 - __Business Plan and Calculations Training__ (Business Helsinki)
 - __Pathways to Entrepreneurship__ (Business Espoo)
-- __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
-- __Materials and Machine Learning workshop__ - (Baylor University)
-- __Python for Time Series Data Analysis__ (Udemy)
-- __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
-- __Python for Financial Analysis and Algorithmic Trading__ – (Udemy)
-- __The complete Financial Analyst Course 2025__ – (Udemy)
-- __Foundations of Finance__ - (University of Cambridge)
+{:/comment}
 
 `2024`
 
-- __Financial Markets__ - (Yale University)
-- __Mathematical Methods for Quantitative Finance__ - (MITx)
-- __Financial Engineering and Risk Management__ – (Columbia University)
+- __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Time Series Data Analysis__ – (Udemy)
 - __Python for Data Science and Machine Learning__ – (Udemy)
 - __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
-- __Python for Machine Learning and Data Science Masterclass__ (Udemy)
+- __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
+- __Foundations of Finance__ - (University of Cambridge)
+- __Financial Markets__ - (Yale University)
 
 ## Publications
 
