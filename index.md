@@ -67,14 +67,12 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 - Conducted experimental analysis using industrial-standard simulation tools.
 <!-- - Supported junior researchers in laboratory techniques and methodologies. --!>
 
-<!--
 `2008 – 2013`
 `09/2008 – 09/2013`
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
--->
 
 <!--
 ## Projects
