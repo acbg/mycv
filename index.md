@@ -68,7 +68,7 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 <!-- - Supported junior researchers in laboratory techniques and methodologies. --!>
 
 `2008 – 2013`
-`09/2008 – 09/2013`
+<!-- `09/2008 – 09/2013` --!>
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
@@ -92,15 +92,21 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 ## Skills
 
-**Programming**: Python (pandas, numpy, scikit-learn), C, MATLAB, R, Unix, git
+`Programming`
+Python (pandas, numpy, scikit-learn), MATLAB, git
 
-**Data Analysis and Machine Learning**: Experimental design, statistical modeling, predictive analysis, time series analysis
+`Data Analysis and Machine Learning`
+Experimental design, statistical modeling, predictive analysis
 
-**Technical Expertise**: Materials and devices fabrication (MOVPE, PECVD, ICP-RIE, PVD, Evaporation, Photolithography, EBL), characterization (AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS)
+`Technical Expertise`
+__Fabrication techniques__ MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
+__Characterization techniques__ AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS
 
-**Strengths**: Team player, self learner, curious, self-guided, problem-solver, critical thinker, adaptable.
+`Strengths`
+Communication, Team Leadership, Self Learner, Critical Thinker
 
-**Languages**: Spanish (Native), English (C2), French (B2), Italian (B1), Swedish (A2), Finnish (A1)
+`Languages`
+Spanish (Native), English (C2), French (B2), Italian (B1), Swedish (A2), Finnish (A1)
 
 
 ## Education
