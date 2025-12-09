@@ -101,9 +101,9 @@ Python (pandas, numpy, scikit-learn), MATLAB, git
 Experimental design, statistical modeling, predictive analysis, machine learning
 
 `Technical Expertise`
-Fabrication: MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
+MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
 
-Characterization: AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS
+AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS
 
 `Strengths`
 Communication, Team Leadership, Self Learner, Critical Thinker
