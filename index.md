@@ -19,11 +19,10 @@ Physics PhD | Researcher
 
 Big-picture thinker and goal-oriented phycisist with over 15 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
 and more recently in patent drafting and prosecution.
-Strong foundation in Python programming, statistical modeling, and data-driven decision-making.
+Strong foundation in Python programming and statistical modeling.
 Fascinated by the intersection of Physics, Mathematics and Technology.
-Eternal learner with a deep interest in quantum computing, photonics, education, project management and algorithm development.
-Continuously upgrading my knowledge through coursework in different topics, especially in Quantum Computation.
-Committed to help advance the quantum computing revolution.
+Eternal learner with a deep interest in quantum computing, semiconductors, photonics, education, project management and algorithm development.
+Continuously upgrading my knowledge through coursework in different topics, lately especially in Quantum Computation.
 
 
 ## Professional Experience
@@ -35,7 +34,7 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsi
 - Managed client patent portfolios, guided and supervised the patent application process from invention through drafting, grant, and beyond.
 - Conducted technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
 - Reviewed and evaluated technological innovations in various domains, including software, hardware, and physics-based applications.
-- Collaborated with legal and scientific teams to provide technical insights and strategy for intellectual property protection.
+- Collaborated with legal and scientific client teams to provide technical insights and strategy for intellectual property protection.
 - Analysed and searched large datasets of prior-art libraries
 
 `2022 - 2023`
@@ -45,6 +44,7 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, 
 - Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR (augmented reality)
 applications, from concept to execution.
 - Fully developed hard-master replication processes in a clean room environment, improving process efficiency and minimising fabrication times.
+- Directly communicated with project managers and customers to align project specifications and expectations.
 - Delivered samples within tight deadlines and presented reports to diverse stakeholders.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
 - Mentored and guided team members, introducing them to standard protocols and tools.
@@ -65,14 +65,16 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 
 - Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
 - Conducted experimental analysis using industrial-standard simulation tools.
-- Supported junior researchers in laboratory techniques and methodologies.
+<!-- - Supported junior researchers in laboratory techniques and methodologies. --!>
 
+<!--
 `2008 – 2013`
-<!-- `09/2008 – 09/2013` -->
+`09/2008 – 09/2013`
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
 - Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
+-->
 
 <!--
 ## Projects
@@ -124,11 +126,11 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 
 `2025`
 
-- __IBM Basics of Quantum Information__(in progress) (IBM, Quantum Platform)
-- __IQM Quantum School__ (IQM)
-- __Quantum Enigmas__ (IBM)
+- __IBM Basics of Quantum Information__ [in progress] (IBM, Quantum Platform)
+- __Quantum Algorithms__ [in progress] (IQM)
+- __Quantum Enigmas__ [in progress] (IBM)
+- __IQM Winter Quantum School__ (IQM)
 - __Foundations of Quantum Computing__ (IQM)
-- __Quantum Algorithms__ (IQM)
 - __Starting a Business__ (Business Helsinki)
 - __Business Plan and Calculations Training__ (Business Helsinki)
 - __Pathways to Entrepreneurship__ (Business Espoo)
