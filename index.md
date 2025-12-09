@@ -6,9 +6,9 @@ title: Alberto Casado
 Physics PhD | Researcher
 
 <div id="webaddress">
-  <a href="http://acbg.gitlab.io/">acbg.gitlab.io</a>
-  | <a href="mailto:casado.alberto@gmail.com">email</a>
-  | <a href="tel:+358503088737">phone</a>
+  <a href="http://acbg.gitlab.io/">Personal Website</a>
+  | <a href="mailto:casado.alberto@gmail.com">e-mail</a>
+  | <a href="tel:+358503088737">Phone</a>
   | <a href="https://linkedin.com/in/acbgg">LinkedIn</a>
   | <a href="https://github.com/acbg">GitHub</a>
   | <a href="https://gitlab.com/acbg">GitLab</a>
@@ -99,6 +99,7 @@ Experimental design, statistical modeling, predictive analysis, machine learning
 
 `Technical Expertise`
 Fabrication: MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
+
 Characterization: AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS
 
 `Strengths`
@@ -164,7 +165,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __Electroluminescent cooling using double diode structures__; <i>T. Sadi, I. Radevici, P. Kivisaari, A. Casado and J. Oksanen</i>; NUSOD (2018)
 - __Electrical indoor performance of bifacial silicon PV modules under different settings affecting the rear reflected irradiance__; <i>Juan Lopez-Garcia, Alberto Casado and Tony Sample</i>; 33rd EU-PVSEC (2017)
 - __Transverse-collection mechanisms in silicon- heterojunction solar cells__; <i>A. Casado, R. Barrio, J. J. Gandia and J. Carabe</i>; 33rd EU-PVSEC (2017)
-- __Effect of the passivating a-Si:H layer on laser-fired contacts in p-CZ silicon-heterojuntion solar cells__; <i>R. Barrio1, N. González1, A. Casado1, S.Fernández1, J.P.González1, D.Muñoz2, C.Molpeceres2, J.J. Gandía1, J.Cárabe</i>; 28th EU-PVSEC (2014)
+- __Effect of the passivating a-Si:H layer on laser-fired contacts in p-CZ silicon-heterojuntion solar cells__; <i>R. Barrio, N. González, A. Casado, S.Fernández, J.P.González, D.Muñoz, C.Molpeceres, J.J. Gandía, J.Cárabe</i>; 28th EU-PVSEC (2014)
 - __Influence of the CF4/O2 plasma treatment of ZnO:Al on the performance of a-Si p-i-n solar cells__; <i>J.D. Santos, S. Fernandez, A. Casado et al.</i>;  EMCMRE-1 (2012)
 - __Microcrystalline silicon material for silicon- heterojunction solar cells__; <i>A. Casado et al.</i>; EMCMRE-1 (2011)
 - __Optimization of laser-firing processes for silicon- heterojunction solar-cell back contacts__; <i>I. Sanchez-Aniorte, R. Barrio, A. Casado et al.</i>; E-MRS Spring Conference (2011)
