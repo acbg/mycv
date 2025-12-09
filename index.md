@@ -95,8 +95,8 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 `Programming`
 Python (pandas, numpy, scikit-learn), MATLAB, git
 
-`Data Analysis and Machine Learning`
-Experimental design, statistical modeling, predictive analysis
+`Data Analysis`
+Experimental design, statistical modeling, predictive analysis, machine learning
 
 `Technical Expertise`
 __Fabrication techniques__ MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
