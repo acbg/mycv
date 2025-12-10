@@ -141,7 +141,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __IBM Basics of Quantum Information__ [in progress] (IBM, Quantum Platform)
 - __Quantum Algorithms__ [in progress] (IQM)
 - __Quantum Enigmas__ [in progress] (IBM)
-- __IQM Winter Quantum School__ (IQM)
+- __IQM Winter Quantum School__ ([IQM](https://tinyurl.com/2yrexpkc))
 - __Foundations of Quantum Computing__ (IQM)
 - __Materials and Machine Learning workshop__ - (Baylor University)
 
