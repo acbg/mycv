@@ -95,10 +95,10 @@ Proficient in python (pandas, numpy, scikit-learn), MATLAB, git.
 `Data Analysis`
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
-`Technical Expertise`
+`Technical`
 Extensive knowledge of MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation and photolithography.
 
-`Characterisation techniques`
+`Characterisation`
 Skilled in AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission and XPS, among others.
 
 `Strengths`
