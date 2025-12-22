@@ -17,13 +17,9 @@ Physics PhD | Researcher
 
 ## About me
 
-Big-picture thinker and goal-oriented phycisist with over 15 years of experience in semiconductor Physics, optoelectronic devices and data analysis,
-and more recently in patent drafting and prosecution.
-Strong foundation in Python programming and statistical modeling.
-Fascinated by the intersection of Physics, Mathematics and Technology.
-Eternal learner with a deep interest in quantum computing, semiconductors, photonics, education, project management and algorithm development.
-Continuously upgrading my knowledge through coursework in different topics, lately very interested in Quantum Computation.
-
+I am a goal-oriented physicist with over 15 years of experience specializing in semiconductor Physics, optoelectronic devices, and data analysis, alongside expertise in patent drafting and prosecution.
+Proficient in Python programming and statistical modeling, I am deeply fascinated by the intersection of Physics, Mathematics, and Technology, particularly in the domain of Quantum Computing.
+An eternal learner, I am dedicated to continuously upgrading my knowledge through advanced coursework. Recently, I have focused on quantum computation and its applications, along with project management and algorithm development. I am enthusiastic about contributing to innovative solutions in the Quantum Computing field at Semiqon.
 
 ## Professional Experience
 
@@ -31,40 +27,39 @@ Continuously upgrading my knowledge through coursework in different topics, late
 <!-- `11/2023 - 04/2025` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsinki, Finland)
 
-- Managed client patent portfolios, guided and supervised the patent application process from invention through drafting, grant, and beyond.
-- Conducted technical analysis for patent applications, ensuring accuracy and compliance with legal standards.
-- Reviewed and evaluated technological innovations in various domains, including software, hardware, and physics-based applications.
-- Collaborated with legal and scientific client teams to provide technical insights and strategy for intellectual property protection.
-- Analysed and searched large datasets of prior-art libraries
+- Managed client patent portfolios, guiding the patent application process from invention through drafting, grant, and beyond.
+- Conducted technical analysis for patent applications to ensure accuracy and compliance with legal standards.
+- Reviewed and evaluated technological innovations across software, hardware, and Physics-based applications.
+- Collaborated with legal and scientific teams to provide technical insights and strategies for intellectual property protection.
+- Analysed and searched extensive prior-art databases, contributing to informed decision-making.
 
 `2022 - 2023`
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, Finland)
 
-- Led manufacturing projects, developing processes for the fabrication and characterisation of optical waveguides to be used in AR (augmented reality)
-applications, from concept to execution.
-- Fully developed hard-master replication processes in a clean room environment, improving process efficiency and minimising fabrication times.
-- Directly communicated with project managers and customers to align project specifications and expectations.
-- Delivered samples within tight deadlines and presented reports to diverse stakeholders.
+- Led manufacturing projects for optical waveguides used in augmented reality applications, overseeing processes from concept to execution.
+- Developed hard-master replication processes in a clean room environment, significantly improving process efficiency and reducing fabrication times.
+- Effectively communicated with project managers and customers to align on project specifications and expectations.
+- Delivered samples promptly and presented detailed reports to diverse stakeholders, enhancing communication and project transparency.
 - Contributed to process optimization and consolidation to enhance operational efficiency.
-- Mentored and guided team members, introducing them to standard protocols and tools.
+- Contributed to process optimization initiatives, resulting in enhanced operational efficiency while mentoring team members in standard protocols.
 
 `2017 – 2022`
 <!-- `11/2017 – 03/2022` -->
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi) (Espoo, Finland)
 
-- Designed, fabricated and characterised several types of optoelectronic devices.
-- Created simulation models for LEDs and PV cells, enhancing the understanding of devices performance and the electroluminescent cooling effect of LEDs.
-- Developed Python-based tools for statistical analysis of complex datasets containing several characteristics of hundreds of devices per wafer.
-- Maintained and operated advanced fabrication and characterization systems.
-- Supervised and trained junior researchers (Masters and PhD. students) on experimental and analytical tools.
+- Designed, fabricated and characterized various optoelectronic devices, contributing to the advancement of the field.
+- Created simulation models for LEDs and photovoltaic cells, deepening the understanding of device performance and the electroluminescent cooling effect.
+- Developed Python-based tools for statistical analysis of complex datasets, streamlining data processing for hundreds of devices.
+- Maintained and operated sophisticated fabrication and characterization systems, ensuring high-quality results.
+- Supervised and trained junior researchers in experimental techniques and analytical methods.
 
 `2017`
 <!-- `05/2017 – 10/2017` -->
 __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/index_en) (Ispra, Italy)
 
-- Contributed to developing IEC measurement standards for bi-facial photovoltaic modules.
-- Conducted experimental analysis using industrial-standard simulation tools.
+- Contributed to the development of IEC measurement standards for bifacial photovoltaic modules.
+- Conducted experimental analyses using industrial-standard simulation tools, enhancing the reliability of research findings.
 
 {::comment}
 - Supported junior researchers in laboratory techniques and methodologies.
@@ -95,18 +90,19 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 ## Skills
 
 `Programming`
-Python (pandas, numpy, scikit-learn), MATLAB, git
+Proficient in python (pandas, numpy, scikit-learn), MATLAB, git.
 
 `Data Analysis`
-Experimental design, statistical modeling, predictive analysis, machine learning
+Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
 `Technical Expertise`
-MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation, Photolithography
+Extensive knowledge of MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation and photolithography.
 
-AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission, XPS
+`Characterisation techniques`
+Skilled in AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission and XPS, among others.
 
 `Strengths`
-Communication, Team Leadership, Self Learner, Critical Thinker
+Strong communication, team leadership, self-directed learning and critical thinking skills.
 
 `Languages`
 Spanish (Native), English (C2), French (B2), Italian (B1), Swedish (A2), Finnish (A1)
@@ -117,20 +113,20 @@ Spanish (Native), English (C2), French (B2), Italian (B1), Swedish (A2), Finnish
 `2016`
 __Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (Spain)
 
-- Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization
+- Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization.
 
 `2012`
 __M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es)
 
 {::comment}
-- Focus: Fabrication and characterization techniques, analysis methods, and programming tools
+- Focus: Fabrication and characterization techniques, analysis methods, and programming tools.
 {:/comment}
 
 `2008`
 __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spain)
 
 {::comment}
-- Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics
+- Focus: Programming, Mathematical and Theoretical Physics, Solid-matter Physics.
 {:/comment}
 
 
@@ -143,7 +139,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __Quantum Enigmas__ [in progress] (IBM)
 - __IQM Winter Quantum School__ ([IQM](https://tinyurl.com/2yrexpkc))
 - __Foundations of Quantum Computing__ (IQM)
-- __Materials and Machine Learning workshop__ - (Baylor University)
+- __Materials and Machine Learning workshop__ (Baylor University)
 
 {::comment}
 - __Starting a Business__ (Business Helsinki)
