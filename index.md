@@ -90,22 +90,22 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 ## Skills
 
 `Programming`
-Proficient in python (pandas, numpy, scikit-learn), MATLAB, git.
+Proficient in Python (pandas, numpy, scikit-learn), MATLAB, git.
 
 `Data Analysis`
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
 `Technical`
-Extensive knowledge of MOVPE, PECVD, ICP-RIE, PVD, Thermal Evaporation and photolithography.
+Extensive knowledge of MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
 
 `Characterisation`
-Skilled in AFM, SEM, Ellipsometry, XRD, IV curves, Confocal Microscopy, Spectrophotometry, Micro-Raman spectroscopy, Optical Reflectance and Transmission and XPS, among others.
+Skilled in AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission,spectrophotometry and XPS.
 
 `Strengths`
 Strong communication, team leadership, self-directed learning and critical thinking skills.
 
 `Languages`
-Spanish (Native), English (C2), French (B2), Italian (B1), Swedish (A2), Finnish (A1)
+Spanish (Native), English (C2), French (B2), Italian (B1), Swedish and Finnish (A1)
 
 
 ## Education
