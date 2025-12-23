@@ -19,7 +19,7 @@ Physics PhD | Researcher
 
 I am a goal-oriented physicist with over 15 years of experience specializing in semiconductor Physics, optoelectronic devices, and data analysis, alongside expertise in patent drafting and prosecution.
 Proficient in Python programming and statistical modeling, I am deeply fascinated by the intersection of Physics, Mathematics, and Technology, particularly in the domain of Quantum Computing.
-An eternal learner, I am dedicated to continuously upgrading my knowledge through advanced coursework. Recently, I have focused on quantum computation and its applications, along with project management and algorithm development. I am enthusiastic about contributing to innovative solutions in the Quantum Computing field at Semiqon.
+An eternal learner, I am dedicated to continuously upgrading my knowledge through advanced coursework. Recently, I have focused on quantum computation and its applications, along with project management and algorithm development. I am enthusiastic about contributing to innovative solutions in the Quantum Computing field.
 
 ## Professional Experience
 
