@@ -41,8 +41,7 @@ __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, 
 - Developed hard-master replication processes in a clean room environment, significantly improving process efficiency and reducing fabrication times.
 - Effectively communicated with project managers and customers to align on project specifications and expectations.
 - Delivered samples promptly and presented detailed reports to diverse stakeholders, enhancing communication and project transparency.
-- Contributed to process optimization and consolidation to enhance operational efficiency.
-- Contributed to process optimization initiatives, resulting in enhanced operational efficiency while mentoring team members in standard protocols.
+- Contributed to process optimization and consolidation initiatives, resulting in enhanced operational efficiency while mentoring team members in standard protocols.
 
 `2017 – 2022`
 <!-- `11/2017 – 03/2022` -->
@@ -50,7 +49,7 @@ __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi) (Espoo, Fi
 
 - Designed, fabricated and characterized various optoelectronic devices, contributing to the advancement of the field.
 - Created simulation models for LEDs and photovoltaic cells, deepening the understanding of device performance and the electroluminescent cooling effect.
-- Developed Python-based tools for statistical analysis of complex datasets, streamlining data processing for hundreds of devices.
+- Developed Python-based tools for statistical analysis of complex datasets, streamlining data processing of hundreds of devices.
 - Maintained and operated sophisticated fabrication and characterization systems, ensuring high-quality results.
 - Supervised and trained junior researchers in experimental techniques and analytical methods.
 
@@ -69,7 +68,7 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 - Developed semi-empirical models to optimize solar-cell front- and back-contact designs.
-- Fabricated and characterized materials using advanced spectroscopy and analysis techniques.
+- Fabricated and characterized materials using advanced fabrication and characterisation techniques.
 
 <!--
 ## Projects
@@ -90,15 +89,15 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 ## Skills
 
 `Programming`
-Proficient in Python (pandas, numpy, scikit-learn), MATLAB, git.
+Proficient in Python (pandas, numpy, scikit-learn), MATLAB and git.
 
 `Data Analysis`
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
 `Technical`
-Extensive knowledge of fabrication techniques such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
+Extensive knowledge of *fabrication techniques* such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
 
-Skilled in characterisation techniques such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission,spectrophotometry and XPS.
+Skilled in *characterisation techniques* such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission, spectrophotometry and XPS.
 
 `Strengths`
 Strong communication, team leadership, self-directed learning and critical thinking skills.
@@ -112,7 +111,7 @@ Spanish (Native), English (C2), French (B2), Italian (B1), Swedish and Finnish (
 `2016`
 __Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (Spain)
 
-- Focus: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization.
+- *Focus*: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization.
 
 `2012`
 __M.Sc. in Advanced Materials and Nanotechnology__, [Universidad Autónoma de Madrid](https://www.uam.es)
