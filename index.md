@@ -23,7 +23,7 @@ An eternal learner, I am dedicated to continuously upgrading my knowledge throug
 
 ## Professional Experience
 
-`2023 - 2025`
+`2024 - 2025`
 <!-- `11/2023 - 04/2025` -->
 __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsinki, Finland)
 
@@ -33,7 +33,7 @@ __Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsi
 - Collaborated with legal and scientific teams to provide technical insights and strategies for intellectual property protection.
 - Analysed and searched extensive prior-art databases, contributing to informed decision-making.
 
-`2022 - 2023`
+`2022 - 2024`
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, Finland)
 
