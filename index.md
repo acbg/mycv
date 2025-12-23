@@ -96,10 +96,9 @@ Proficient in Python (pandas, numpy, scikit-learn), MATLAB, git.
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
 `Technical`
-Extensive knowledge of MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
+Extensive knowledge of fabrication techniques such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
 
-`Characterisation`
-Skilled in AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission,spectrophotometry and XPS.
+Skilled in characterisation techniques such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission,spectrophotometry and XPS.
 
 `Strengths`
 Strong communication, team leadership, self-directed learning and critical thinking skills.
