@@ -28,7 +28,7 @@ An eternal learner, I am dedicated to continuously upgrading my knowledge throug
 Technical sales, application engineer, customer oriented roles, etc
 {:/comment}
 I am a goal-oriented physicist with over 15 years of experience in semiconductor Physics and optoelectronic devices, lately specializing in technical support and customer engagement. My expertise in data analysis, project management, and customer-oriented roles enable me to optimize system performance and enhance customer satisfaction.
-Passionate about using innovative metrology solutions, I thrive at the intersection of physics, technology, and client support, ensuring seamless tool integration and maximizing user capabilities. I am committed to continuous professional development, focusing on advanced coursework in quantum computing and semiconductor processes, which equip me to contribute effectively to cutting-edge projects.
+Passionate about managing research projects, I thrive at the intersection of Physics, Technology and client support, ensuring seamless tool integration and maximizing user capabilities. I am committed to continuous professional development, focusing on advanced coursework in quantum computing and semiconductor processes, which equip me to contribute effectively to cutting-edge projects.
 
 
 ## Professional Experience
