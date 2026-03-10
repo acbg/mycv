@@ -3,7 +3,7 @@ layout: cv
 title: Alberto Casado
 ---
 # Alberto Casado
-Physics PhD | Researcher
+Physics PhD | Project Manager | Researcher
 
 <div id="webaddress">
   <a href="http://acbg.gitlab.io/">Personal Website</a>
@@ -100,13 +100,10 @@ Strong communication, team leadership, self-directed learning and critical think
 `PM & Leadership`
 Team coordination, timeline management, resource planning, stakeholder communication, process optimization.
 
-`Data Science &`
-Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
-
 `Technical expertise`
 Extensive knowledge of _fabrication techniques_ such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
-
 Skilled in _characterisation techniques_ such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission, spectrophotometry and XPS.
+Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
 `Programming`
 Proficient in Python (pandas, numpy, scikit-learn), MATLAB and git.
