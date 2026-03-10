@@ -97,12 +97,13 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 `Strengths`
 Strong communication, team leadership, self-directed learning and critical thinking skills.
 
-`Project Management & Leadership`
+`PM & Leadership`
 Team coordination, timeline management, resource planning, stakeholder communication, process optimization.
 
-`Data Analysis and Technical expertise`
+`Data Science &`
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
+`Technical expertise`
 Extensive knowledge of _fabrication techniques_ such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
 
 Skilled in _characterisation techniques_ such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission, spectrophotometry and XPS.
