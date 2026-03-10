@@ -17,51 +17,50 @@ Physics PhD | Researcher
 
 ## About me
 
-{::comment}
-Quantum Computing
-I am a goal-oriented physicist with over 15 years of experience specializing in semiconductor Physics, optoelectronic devices, and data analysis, alongside expertise in patent drafting and prosecution.
-Proficient in Python programming and statistical modeling, I am deeply fascinated by the intersection of Physics, Mathematics, and Technology, particularly in the domain of Quantum Computing.
-An eternal learner, I am dedicated to continuously upgrading my knowledge through advanced coursework. Recently, I have focused on quantum computation and its applications, along with project management and algorithm development. I am enthusiastic about contributing to innovative solutions in the Quantum Computing field.
-{:/comment}
-
-{::comment}
-Technical sales, application engineer, customer oriented roles, etc
-{:/comment}
-I am a goal-oriented physicist with over 15 years of experience in semiconductor Physics and optoelectronic devices, lately specializing in technical support and customer engagement. My expertise in data analysis, project management, and customer-oriented roles enable me to optimize system performance and enhance customer satisfaction.
-Passionate about managing research projects, I thrive at the intersection of Physics, Technology and client support, ensuring seamless tool integration and maximizing user capabilities. I am committed to continuous professional development, focusing on advanced coursework in quantum computing and semiconductor processes, which equip me to contribute effectively to cutting-edge projects.
-
+<!--
+Project management
+-->
+Physics PhD with 15+ years in semiconductor R&D and innovation. I combine deep technical expertise in optoelectronic devices and materials with a natural talent for systems thinking, team coordination, and strategic planning. I thrive at the intersection of technical innovation and execution—bridging research, manufacturing, and teams to deliver results. Proven ability to manage complex projects, mentor diverse teams, and see the bigger picture while keeping execution on track. Now seeking to formalize this leadership experience in a project management role.
 
 ## Professional Experience
 
 `2024 - 2025`
 <!-- `11/2023 - 04/2025` -->
-__Patent Specialist__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsinki, Finland)
+__Patent Coordinator__, [Papula-Nevinpat](https://www.papula-nevinpat.com) (Helsinki, Finland)
 
+- Evaluated technological innovations across software, hardware, and physics-based applications, developing strategic insights into IP landscapes.
+- Collaborated with inventors, legal teams, and clients to translate technical innovations into actionable IP strategy.
+- This role deepened my understanding of innovation pipelines and cross-functional collaboration—skills essential for technical project management.
+
+<!--
 - Managed client patent portfolios, guiding the patent application process from invention through drafting, grant, and beyond.
 - Conducted technical analysis for patent applications to ensure accuracy and compliance with legal standards.
 - Reviewed and evaluated technological innovations across software, hardware, and Physics-based applications.
 - Collaborated with legal and scientific teams to provide technical insights and strategies for intellectual property protection.
 - Analysed and searched extensive prior-art databases, contributing to informed decision-making.
+-->
 
 `2022 - 2024`
 <!-- `04/2022 - 10/2023` -->
 __Senior Manufacturing Engineer__, [Dispelix](https://www.dispelix.com) (Espoo, Finland)
 
-- Led manufacturing projects for optical waveguides used in augmented reality applications, overseeing processes from concept to execution.
-- Developed hard-master replication processes in a clean room environment, significantly improving process efficiency and reducing fabrication times.
-- Effectively communicated with project managers and customers to align on project specifications and expectations.
-- Delivered samples promptly and presented detailed reports to diverse stakeholders, enhancing communication and project transparency.
-- Contributed to process optimization and consolidation initiatives, resulting in enhanced operational efficiency while mentoring team members in standard protocols.
+<!-- - Led manufacturing projects for optical waveguides used in augmented reality applications, overseeing processes from concept to execution. -->
+- Led end-to-end manufacturing projects for optical waveguides in AR applications, coordinating across engineering and quality teams.
+- Optimized hard-master replication processes in a cleanroom environment, achieving 30% reduction in fabrication times and 60% reduction in costs, improving overall process efficiency.
+- Managed project timelines and resource allocation decisions, balancing technical requirements with operational constraints.
+- Communicated complex technical requirements to diverse stakeholders (project managers, customers, internal teams), ensuring clear understantding and expectation alignment.
+- Mentored team members in standard protocols and best practices, contributing to knowledge transfer and operational consistency.
 
 `2017 – 2022`
 <!-- `11/2017 – 03/2022` -->
 __Postdoctoral Researcher__, [Aalto University](https://www.aalto.fi) (Espoo, Finland)
 
-- Designed, fabricated and characterized various optoelectronic devices, contributing to the advancement of the field.
-- Created simulation models for LEDs and photovoltaic cells, deepening the understanding of device performance and the electroluminescent cooling effect.
-- Developed Python-based tools for statistical analysis of complex datasets, streamlining data processing of hundreds of devices.
-- Maintained and operated sophisticated fabrication and characterization systems, ensuring high-quality results.
-- Supervised and trained junior researchers in experimental techniques and analytical methods.
+- Designed, fabricated, and characterized optoelectronic devices, contributing to advancement of LED and photovoltaic technologies.
+- Developed Python-based statistical analysis tools for complex datasets, streamlining data processing for hundreds of devices and improving research efficiency.
+- Mentored 15+ junior researchers (undergraduates, PhD students, postdocs) in advanced fabrication and characterization techniques, fostering collaborative learning and professional development.
+- Created simulation models for device performance optimization, deepening understanding of electroluminescent cooling effects and informing design decisions.
+- Maintained sophisticated fabrication and characterization systems, ensuring high-quality results and system reliability.
+
 
 `2017`
 <!-- `05/2017 – 10/2017` -->
@@ -69,10 +68,7 @@ __Research Assistant__, [EU-JRC](https://joint-research-centre.ec.europa.eu/inde
 
 - Contributed to the development of IEC measurement standards for bifacial photovoltaic modules.
 - Conducted experimental analyses using industrial-standard simulation tools, enhancing the reliability of research findings.
-
-{::comment}
-- Supported junior researchers in laboratory techniques and methodologies.
-{:/comment}
+- Mentored and supported junior researchers in laboratory techniques and methodologies.
 
 `2008 – 2013`
 __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
@@ -98,19 +94,21 @@ __Junior Researcher__, [CIEMAT](https://www.ciemat.es) (Madrid, Spain)
 
 ## Skills
 
-`Programming`
-Proficient in Python (pandas, numpy, scikit-learn), MATLAB and git.
+`Strengths`
+Strong communication, team leadership, self-directed learning and critical thinking skills.
 
-`Data Analysis`
+`Project Management & Leadership`
+Team coordination, timeline management, resource planning, stakeholder communication, process optimization.
+
+`Data Analysis and Technical expertise`
 Expertise in experimental design, statistical modeling, predictive analysis and machine learning.
 
-`Technical`
 Extensive knowledge of _fabrication techniques_ such as MOVPE, PECVD, ICP-RIE, PVD, thermal evaporation and photolithography.
 
 Skilled in _characterisation techniques_ such as AFM, SEM, ellipsometry, XRD, IV curves, confocal microscopy, micro-Raman spectroscopy, optical reflectance and transmission, spectrophotometry and XPS.
 
-`Strengths`
-Strong communication, team leadership, self-directed learning and critical thinking skills.
+`Programming`
+Proficient in Python (pandas, numpy, scikit-learn), MATLAB and git.
 
 `Languages`
 Spanish (Native), English (C2), French (B2), Italian (B1), Swedish and Finnish (A1)
@@ -119,7 +117,7 @@ Spanish (Native), English (C2), French (B2), Italian (B1), Swedish and Finnish (
 ## Education
 
 `2016`
-__Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) (Spain)
+__Ph.D. in Physics__, [Universidad Complutense de Madrid](https://www.ucm.es) and [CIEMAT](https://www.ciemat.es) (Spain)
 
 - *Focus*: Optoelectronic devices/materials simulation, modeling, fabrication, and characterization.
 
@@ -140,30 +138,29 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 
 ## Professional development
 
-`2025`
-
+`Quantum Computing`
 - __IBM Basics of Quantum Information__ [in progress] (IBM, Quantum Platform)
 - __Quantum Algorithms__ [in progress] (IQM)
 - __Quantum Enigmas__ [in progress] (IBM)
 - __IQM Winter Quantum School__ ([IQM](https://tinyurl.com/2yrexpkc))
 - __Foundations of Quantum Computing__ (IQM)
+
+`Machine Learning and Data Science`
 - __Materials and Machine Learning workshop__ (Baylor University)
-
-{::comment}
-- __Starting a Business__ (Business Helsinki)
-- __Business Plan and Calculations Training__ (Business Helsinki)
-- __Pathways to Entrepreneurship__ (Business Espoo)
-{:/comment}
-
-`2024`
-
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Time Series Data Analysis__ – (Udemy)
 - __Python for Data Science and Machine Learning__ – (Udemy)
-- __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
 - __Python for Data Science and Machine Learning Bootcamp__ (Udemy)
+
+`Finance`
+- __Python for Finance: Investment Fundamentals & Data Analytics__ (Udemy)
 - __Foundations of Finance__ - (University of Cambridge)
 - __Financial Markets__ - (Yale University)
+
+`Entrepreneurship`
+- __Starting a Business__ (Business Helsinki)
+- __Business Plan and Calculations Training__ (Business Helsinki)
+- __Pathways to Entrepreneurship__ (Business Espoo)
 
 ## Publications
 
@@ -190,14 +187,12 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __Influence of the CF4/O2 plasma treatment of ZnO:Al on the performance of a-Sip-i-n solar cells__; <i>Santos,J.D., S. Fernandez, A. Casado et al.</i>; ScienceJet-C11.1 (2012)
 
 {::comment}
-## Job application summary
+## My narrative / Job application summary
 
-As a seasoned physicist with a rich background in data analysis, programming, and research, I am eager to transition into a quantitative finance role.
-My 12+ years of experience in technical problem-solving and statistical modeling, combined with recent legal and technical analysis expertise as a Patent Specialist, equip me to tackle complex challenges in financial markets.
-Proficient in Python, statistical tools, and data-driven decision-making, I am passionate about applying my analytical mindset to develop innovative trading strategies and financial models.
-I bring a commitment to excellence, a curiosity for learning, and a strong drive to contribute to the dynamic world of quantitative finance.
+I've spent 15 years in technical roles where I've consistently found myself naturally gravitating toward the coordination, mentoring, and strategic sides of the work. I realized that my real strength isn't in the technical depth—it's in seeing how all the pieces fit together and leading teams to execute. That's why I'm now looking for a formal project management role where I can leverage my technical expertise to lead R&D or technical teams, rather than being buried in the details myself.
+In essence, I naturally gravitate toward roles where I can bridge technical teams and customer needs. I enjoy translating complex technical work into clear communication for diverse stakeholders, and I'm energized by direct client interaction.
 {:/comment}
 
 ### Last updated
 
-Dec 2025
+Mar 2026
