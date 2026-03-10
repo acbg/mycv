@@ -146,7 +146,7 @@ __B.Sc. in Physics__, [Universidad Autónoma de Madrid](https://www.uam.es) (Spa
 - __IQM Winter Quantum School__ ([IQM](https://tinyurl.com/2yrexpkc))
 - __Foundations of Quantum Computing__ (IQM)
 
-`Machine Learning and Data Science`
+`Data Science & ML`
 - __Materials and Machine Learning workshop__ (Baylor University)
 - __The Complete SQL Bootcamp: Go from Zero to Hero__ (Udemy)
 - __Python for Time Series Data Analysis__ – (Udemy)
